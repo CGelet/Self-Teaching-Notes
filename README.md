@@ -1,0 +1,2 @@
+# Self Teaching Notes
+ 
