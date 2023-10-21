@@ -9,7 +9,7 @@
 
 # What is this Respository?
 ## Context of who I am 
-My name is Colton Gelety, and as of writing this <b>(10/21/2023)</b>, I am a junior at WVU in Mechanical and Aerospace engineering. I have a high focus in aeronautics, and am looking to develop a set of notes online of different technology or topics which I wish to learn about.
+My name is Colton Gelety, and as of writing this <b>(10/21/2023)</b>, I am a junior at WVU in Mechanical and Aerospace engineering. I am primarily focused in aeronautics, and am looking to develop a set of notes online of different technology or topics which I wish to learn about.
 
 As of right now, outside of classes I try to teach myself something for about an hour a day. This may be related to projects which I am current doing in class, but generally, I like to learn about topics which are completely unrelated to class work. 
 
