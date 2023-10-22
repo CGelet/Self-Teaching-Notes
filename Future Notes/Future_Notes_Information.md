@@ -3,4 +3,6 @@ Well, I have hundreds of things running through my head at all times. I am const
 
 There exists a folder for each genre of topic that I have interest in (from what I can think of currently), and there are a list of topics within those genres which I will evantually add to when I get to that topic.
 
+All folders will hold a .placeholder file to ensure that the file is uploaded to github, but it is exactly what it says... a placeholder file.
+
 ![Static Badge](https://img.shields.io/badge/Current%20Note%20Focus-State--Space%20Logger%20System-blue)
