@@ -13,7 +13,7 @@ Implementation of the IMU was done through I2C, as we are utilizing SparkFun's Q
 ### IMU Initialization
 To initialize the I2C connection, we used the follow lines of code.
 
-```Arduino
+```C++
 ICM_20948_I2C myICM; // Uses default I2C address 0x69
 #define WIRE_PORT Wire
 #define AD0_VAL 1
@@ -21,19 +21,19 @@ ICM_20948_I2C myICM; // Uses default I2C address 0x69
 
 This creates the IMU as a Arduino object, and we can then move forward to actually setting it up for use. This is done through the following line:
 
-```Arduino
+```C++
  myICM.begin(WIRE_PORT, AD0_VAL); /// Initialization of the ICM
 ```
 
 We can then ensure that setup went proper through the following set of lines:
 
-```Arduino
+```C++
   Serial.print(F("Initialization of the sensor returned: "));
   Serial.println(myICM.statusString());
   // It should return 'All is well' if the program initialized correctly
   ```
 This leaves us with the complete loop and initialization seen below.
-```Arduino
+```C++
 #include "src/ICM_20948.h"
 
 BME280 ES_Sens;      // Uses default I2C address 0x77
@@ -68,7 +68,7 @@ Serial.begin(115200);
 }
 ```
 There is also some extra logic that exists for this, checking the status using 
-```Arduino
+```C++
 myICM.status
 ```
 which is a simnple value assigned by the IMU for it's status.
