@@ -19,5 +19,18 @@ As previously stated, a lot of my notes are not generally guided by the requirem
 ## Goals of this Respository
 For me, the main goal of this repository is to keep a universal, public database of the different topics in which I am looking to learn about. Rangiing from velocity potential and flow fields to database management and data science. All of these topics are generally interesting to me, so I am looking to keep a universal place of my Markdown notes where I can access from anywhere, but also where people who have an interest in the topics can use as a reference.
 
+## Markdown Setup and VSCode Extensions
+I wanted to incllude a quick section just describing how I have this setup. 
+
+### Markdown Editor 
+I use markdown editor which features WYSIWYG (What you see is what you get). This is simply just to allow for myself to get a visual representation of the markdown file easier. This is great for me, as I do not have to 'guess' as much to get the file to look how I want
+
+### FOAM
+FOAM is a VSCode extension to allow myself to develop maps of my notes. This allows for me to visualize the notes which I am taking and their innerconnections.
+
+### Markdown All in One
+Markdown all in one reintroduces basic functions and keybinds. This means, I can easily work through my note taking flow.
+
+
 # Personal Information
 ![Static Badge](https://img.shields.io/badge/Development%20in%20Progress-darkred)
