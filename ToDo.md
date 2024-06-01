@@ -27,3 +27,4 @@ This Document includes some general overview tasks which I have setup for each p
 - [ ] Specifically clean, minimalism
 - [ ] Animations
 
+## Haptic Knob [Youtube Video Explaining]
