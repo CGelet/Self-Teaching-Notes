@@ -1,7 +1,7 @@
 # Repository Status
 ![Static Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/Current%20Note%20Focus-JAVA%2fROBLOX_LUA%2fWeb--Dev-blue)
+![Static Badge](https://img.shields.io/badge/Current%20Note%20Focus-Financial_Dashboard-blue?style=flat)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/CGelet/Self-Teaching-Notes?label=Last%20Commit)
 
 
