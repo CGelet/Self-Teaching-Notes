@@ -6,5 +6,5 @@
 - **Node.js - Node Version Manager**
 
 # File Structure
-- ***< ProjectName >*/app**
+***< ProjectName >*/app**
   - Houses the 
